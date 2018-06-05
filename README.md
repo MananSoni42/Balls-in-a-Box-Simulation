@@ -9,5 +9,6 @@ Properties include things like:
 3. The particle's coeffficient of restitution 
 and so on
 
-This code is NOT perfect and OFTEN the particles resort to undefined behaviour due to bugs that I have not been able to find,
-So please excuse me for these
+This code is NOT perfect and OFTEN behaves erratically
+
+#### The program runs on TurboC++ only
